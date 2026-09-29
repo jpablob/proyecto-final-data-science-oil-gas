@@ -68,3 +68,14 @@ proyecto-final-data-science-oil-gas/
 │
 └── notebooks/
     └── 01_validacion_eda_inicial.ipynb
+```
+
+## Próximos pasos
+
+Las siguientes etapas del proyecto contemplan:
+
+- feature engineering;
+- definición de la variable objetivo;
+- construcción y evaluación de un modelo supervisado;
+- análisis de la capacidad predictiva;
+- aplicación posterior de técnicas de aprendizaje no supervisado.
