@@ -1,0 +1,11 @@
+# Dataset original pesado
+data/raw/
+
+# Entornos locales
+.venv/
+
+# Archivos temporales de Python
+__pycache__/
+
+# Checkpoints de Jupyter
+.ipynb_checkpoints/
